@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #微信小程序文档MD版
 
 
@@ -32,3 +33,6 @@ https://github.com/gavinkwoe/weapp-ide-crack
 
 
 
+=======
+# wx-app-doc
+>>>>>>> 855bd7ce4ece1750bf67310cd25b0c93557a2360
